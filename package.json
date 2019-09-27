@@ -24,6 +24,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "vue-cli-plugin-axios": "0.0.4",
     "vue-cli-plugin-vant": "^1.0.1",
+    "vue-native-share": "^1.0.2",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
